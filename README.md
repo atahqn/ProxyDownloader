@@ -32,4 +32,9 @@ To run this project, you need Python 3.x and a command-line interface.
 
 Here is the syntax to run the script:
 
-`python3 ProxyDownloader.py [port number]`
+`python3 ProxyDownloader.py <port>`
+
+Where `<port>` is the port number on which the proxy downloader should listen for client connections. 
+
+## Authors and Licensing
+This project is open-source. For more information, see the `LICENSE` file in the project root.
