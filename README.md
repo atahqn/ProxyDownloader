@@ -31,8 +31,9 @@ Finally, the script defines a `main()` function, which parses command line argum
 To run this project, you need Python 3.x and a command-line interface.
 
 Here is the syntax to run the script:
-
-`python3 ProxyDownloader.py <port>`
+    ```sh
+    `python3 ProxyDownloader.py <port>`
+    ```
 
 Where `<port>` is the port number on which the proxy downloader should listen for client connections. 
 
